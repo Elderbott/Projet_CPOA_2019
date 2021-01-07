@@ -1,0 +1,2 @@
+CD : CD1 - titre: Master of Pupets - tarif: 11€ - année de sortie: 1983
+CD : CD2 - titre: Metallica - tarif: 25€ - année de sortie: 1983

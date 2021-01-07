@@ -1,0 +1,1 @@
+BD : BD1 - titre: Tintin aux Congos - tarif: 15€ - auteur:Hergé

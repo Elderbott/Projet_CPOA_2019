@@ -1,0 +1,7 @@
+CD1 - quantité :9
+DVD1- quantité :3
+R1 - quantité :5
+M1 - quantité :6
+BD1 - quantité :4
+DICO1 - quantité :65
+CD2 - quantité :2

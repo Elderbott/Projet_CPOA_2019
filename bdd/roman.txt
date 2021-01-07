@@ -1,0 +1,1 @@
+Roman : R1 - titre: Shinning - tarif: 13€ - auteur du roman:  Stephen King

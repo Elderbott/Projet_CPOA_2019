@@ -1,0 +1,4 @@
+Identifiant : CL1 - nom : Mauchien -  prenom : Thomas - client fidèle :true
+Identifiant : CL2 - nom : Wurtz -  prenom : Loic - client fidèle :true
+Identifiant : CL3 - nom : Lambert -  prenom : Flavien - client fidèle :false
+Identifiant : CL4 - nom : Ahmed -  prenom : Zidna - client fidèle :true
